@@ -1,0 +1,22 @@
+.navbar {
+  background-color: rgb(155, 231, 40);
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar .navbar-title {
+  margin-left: 250px;
+  color: white;
+  font-size: 32px;
+}
+.navbar .basket-icon {
+  margin-right: 200px;
+  margin-left: 250px;
+  color: white;
+  font-size: 26px;
+  position: relative;
+}
+.navbar .basket-icon p {
+  position: absolute;
+}/*# sourceMappingURL=Navbar.css.map */
